@@ -43,6 +43,7 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ## 💻 Program
 
 ### Developed By:
+~~~
 **Name:** ____________VETANANTRA________________  
 
 ### Register No:
@@ -109,7 +110,7 @@ for i in range(50):
 
 cap.release()
 
----
+~~~
 
 ## Output
 
